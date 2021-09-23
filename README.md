@@ -12,4 +12,4 @@ See the source of data [here].(https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/f
 This infographic displays the percentage of Lehigh students that come from Pennsylvania, New York/New Jersey, other states or another country.
 
 ![Lehigh](https://github.com/alizalev/alizalev.github.io/blob/main/LehighStats.png?raw=true)
-![Lehigh](image url){height="36px" width="36px"}
+
