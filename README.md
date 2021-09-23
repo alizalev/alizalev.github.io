@@ -8,7 +8,7 @@ Please visit my [linkedin page](https://www.linkedin.com/in/aliza-lev/) for more
 ![me](https://github.com/alizalev/alizalev.github.io/blob/main/lev_headshot.jpg?raw=true)
 
 ## Where Do Lehigh Students Come From?
-See the source of data [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2020.pdf). 
+See the source of my data [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2020.pdf). 
 This infographic displays the percentage of Lehigh students that come from Pennsylvania, New York/New Jersey, other states or another country.
 
 ![Lehigh](https://github.com/alizalev/alizalev.github.io/blob/main/LehighStats.png?raw=true)
