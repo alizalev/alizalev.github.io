@@ -19,6 +19,6 @@ See the source of my data [here](https://studentaffairs.lehigh.edu/sites/student
 
 ![GreekLife](https://github.com/alizalev/alizalev.github.io/blob/main/greeklife.png?raw=true)
 
-## Lehigh-Lafayette Rrivalry Timeline
+## Lehigh-Lafayette Rivalry Timeline
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1w-uv6YLktu90lTGSolzpPIe6t-1Gb1TYI4YZOdhUVnU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
