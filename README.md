@@ -1,4 +1,10 @@
 # alizalev.github.io
+mkdir assets && cd assets
+mkdir css && cd css
+echo '---' >> style.scss
+echo '---' >> style.scss
+echo >> style.scss
+echo '@import "{{ site.theme }}";' >> style.scss
 
 ## Hello World
 
