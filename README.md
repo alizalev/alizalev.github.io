@@ -35,6 +35,6 @@ This chart shows Lehigh's undergraduate enrollment in 2019 broken down by colleg
 
 ## Largest Majors at Lehigh in 2021
 
-This bar chart shows the largest majors at Lehigh in 2021 based on the number of graduates from each of those majors. See the source of my data [here](https://oirsa.lehigh.edu/completions-major) 
+This bar chart shows the largest majors at Lehigh in 2021 based on the number of graduates from each of those majors. See the source of my data [here](https://oirsa.lehigh.edu/completions-major). 
 
 ![majors](https://github.com/alizalev/alizalev.github.io/blob/main/majors.png?raw=true)
