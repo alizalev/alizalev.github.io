@@ -31,4 +31,5 @@ See the source of my data [here](https://studentaffairs.lehigh.edu/sites/student
 
 This chart shows Lehigh's undergraduate enrollment in 2019 broken down by college. See the source of my data [here](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2019.pdf)
 
-![collegeenrollment] ()
+![collegeenrollment] (https://github.com/alizalev/alizalev.github.io/blob/main/lehighcollegechart2.png?raw=true)
+
