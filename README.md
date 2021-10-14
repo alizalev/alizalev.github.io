@@ -38,3 +38,7 @@ This chart shows Lehigh's undergraduate enrollment in 2019 broken down by colleg
 This bar chart shows the largest majors at Lehigh in 2021 based on the number of graduates from each of those majors. Based on this information, we can see that finance is the most popular major at Lehigh by far. See the source of my data [here](https://oirsa.lehigh.edu/completions-major). 
 
 ![majors](https://github.com/alizalev/alizalev.github.io/blob/main/majors.png?raw=true)
+
+## Enrollment at Lehigh's Three Largestt Undergraduate Colleges Over Time
+
+![collegesovertime](https://github.com/alizalev/alizalev.github.io/blob/main/collegesovertime.png?raw=true)
