@@ -39,6 +39,6 @@ This bar chart shows the largest majors at Lehigh in 2021 based on the number of
 
 ![majors](https://github.com/alizalev/alizalev.github.io/blob/main/majors.png?raw=true)
 
-## Enrollment at Lehigh's Three Largestt Undergraduate Colleges Over Time
+## Enrollment at Lehigh's Three Largest Undergraduate Colleges Over Time
 
 ![collegesovertime](https://github.com/alizalev/alizalev.github.io/blob/main/collegesovertime.png?raw=true)
