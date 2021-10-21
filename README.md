@@ -58,3 +58,9 @@ This time series chart shows the percentage of male and female undergraduates at
 20 most bike-friendly cities on the planet, ranked by Wired. For more information, click [here](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/).
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vIMvcWK1NfMcVSIPRaef9jTWMbQEcYQA" width="640" height="480"></iframe>
+
+## Top 10 U.S. College Towns 2019
+
+This map shows the top 10 U.S. college towns in 2019. These cities and towns were ranked by 24/7 Wall St. and reported by USA Today. This ranking was determined using data from the U.S. Census Bureau's American Community Survey, which looked at the share of residents enrolled in a graduate or undergraduate institution. It was discovered that towns with large amounts of student residents shows how colleges and universities can influence a town. The majority of the towns that were ranked are home to large universities, which explains why such a large portion of their populations are enrolled in college and the average age of their residents are lower than the national average. I think this information is primarily relevant not to college students or future college student, but families looking for a place to live. College towns typically have well-educated populations that are young, diverse and affordable. This makes them ideal spots to live permanently. See the source of this information [here](https://www.usatoday.com/story/money/2019/09/07/best-college-towns-these-30-rank-among-30-top-us/2235088001/).
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1PHqhgW29s-cs7azN8HRXwZ0ZGW5YB8lN" width="640" height="480"></iframe>
