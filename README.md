@@ -45,21 +45,11 @@ This bar chart shows the largest majors at Lehigh in 2021 based on the number of
 
 ![collegesovertime](https://github.com/alizalev/alizalev.github.io/blob/main/collegesovertime.png?raw=true)
 
-## Self-reported Life Satisfaction vs GDP per capita
-
-![gdp](https://github.com/alizalev/alizalev.github.io/blob/main/gdp.png?raw=true)
-
 ## Lehigh Undergraduate Enrollment by Sex Across 10 years
 
 This time series chart shows the percentage of male and female undergraduates at Lehigh from 2011 to 2020. Based on this chart, we can see that there has consistently been more men than women at Lehigh, though the percentages have fluctated over the years. In 2017, Lehigh was the closest it has ever been to an equal distribution among the sexes with 51.5% males and 48.5% females making up the undergraduate population that year. This information is relevant to prospective Lehigh students. A lot of high school students pay close attention to the gender breakdown of colleges, as some students prefer to attend a school with more men or more women. This data shows prospective Lehigh students that while there are more men than women at Lehigh, the numbers are still pretty close and tend to fluctuate often. See the source of my data [here](https://oirsa.lehigh.edu/incoming-class-summaries).
 
 ![genderenrollmenttt](https://github.com/alizalev/alizalev.github.io/blob/main/genderenrollment.png?raw=true)
-
-## 2019 World's Top 20 Cycling Cities Map
-
-20 most bike-friendly cities on the planet, ranked by Wired. For more information, click [here](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/).
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1vIMvcWK1NfMcVSIPRaef9jTWMbQEcYQA" width="640" height="480"></iframe>
 
 ## Top 10 U.S. College Towns 2019
 
